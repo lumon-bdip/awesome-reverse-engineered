@@ -634,5 +634,89 @@
   "name": "urit",
   "removed": "2026-11-07",
   "reason": "unreachable on 3 runs"
+ },
+ {
+  "url": "https://github.com/izaart95-jpg/KimiFreeAPI",
+  "name": "KimiFreeAPI",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/mmqz/cpa-multi-plugins",
+  "name": "cpa-multi-plugins",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/NapNeko/NTQQAntiRecall",
+  "name": "NTQQAntiRecall",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/SnowLuma/SnowLuma",
+  "name": "SnowLuma",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/sagemono/lv0pen",
+  "name": "lv0pen",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/tomodecomp/tomodachi-life",
+  "name": "Tomodachi Life decomp",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/YunataSavior/RTWDecomp",
+  "name": "Rome: Total War decomp",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/MusohSlop/HWDE-decomp",
+  "name": "Hyrule Warriors: Definitive Edition decomp",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ZeusAFK/LibreKO",
+  "name": "LibreKO",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/furqanagwan/007",
+  "name": "007 recomp",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/GenryTheFox0/Project-Iron-6",
+  "name": "Project-Iron-6",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Apolinario-coder/SkyRecomp",
+  "name": "The Legend of Zelda: Skyward Sword HD (Sky Recomp)",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/huami1314/DYYY",
+  "name": "DYYY",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Schwartzblat/WhatsAppPatcher",
+  "name": "WhatsAppPatcher",
+  "removed": "2026-11-12",
+  "reason": "not found on GitHub"
  }
 ]
