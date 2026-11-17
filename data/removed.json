@@ -802,5 +802,17 @@
   "name": "molt-dex",
   "removed": "2026-11-15",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/abduznik/awesome-x360-recomps",
+  "name": "awesome-x360-recomps",
+  "removed": "2026-11-17",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/FantasmaGlad/DQMJ1_Ultimate_Decompilation",
+  "name": "Dragon Quest Monsters: Joker decomp",
+  "removed": "2026-11-17",
+  "reason": "not found on GitHub"
  }
 ]
